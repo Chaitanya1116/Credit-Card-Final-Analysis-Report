@@ -49,7 +49,15 @@ Raw Data → Data Cleaning → Data Transformation → Data Modeling → Visuali
   * Credit utilization ratio
 
 ## Dashboard Insights
+# Project Title
 
+## Overview
+Short description
+
+## Screenshots
+![UI](dashboard-overview.jpg)
+![UI](customer-segmentation.jpg)
+![UI](forecast-analysis.jpg)
 
 ## Key Metrics (KPIs)
 
