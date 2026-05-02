@@ -52,13 +52,13 @@ Raw Data → Data Cleaning → Data Transformation → Data Modeling → Visuali
 ## Dashboard Preview
 
 ### Overall Dashboard
-![Overview](images/dashboard-overview.jpg.jpg)
+![Overview](dashboard/dashboard-overview.jpg.jpg)
 
 ### Customer Analysis
-![Customer](images/customer-segmentation.jpg.jpg)
+![Customer](dashboard/customer-segmentation.jpg.jpg)
 
 ### Forecast Insights
-![Forecast](images/forecast-analysis.jpg.jpg)
+![Forecast](dashboard/forecast-analysis.jpg.jpg)
 
 ### Risk Indicators
 
