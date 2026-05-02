@@ -50,15 +50,6 @@ Raw Data → Data Cleaning → Data Transformation → Data Modeling → Visuali
 
 ## Dashboard Insights
 
-### Customer Behavior
-
-* Customers aged 30–45 show higher spending patterns
-* High-income users tend to use credit cards more frequently
-
-### Transaction Analysis
-
-* Majority of transactions fall within mid-range amounts
-* Frequent transactions indicate loyal users
 
 ### Risk Indicators
 
