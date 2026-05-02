@@ -49,21 +49,7 @@ Raw Data → Data Cleaning → Data Transformation → Data Modeling → Visuali
   * Credit utilization ratio
 
 ## Dashboard Insights
-## Dashboard Preview
 
-### Overall Dashboard
-![Overview](images/dashboard-overview.jpg)
-
-### Customer Analysis
-![Customer](images/customer-segmentation.jpg)
-
-### Forecast Insights
-![Forecast](images/forecast-analysis.jpg)
-
-### Risk Indicators
-
-* Customers with high credit utilization show higher default probability
-* Delayed payments are more common in low-income segments
 
 ## Key Metrics (KPIs)
 
